@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pramodh9653
-- 👀 I’m interested in C, PYTHON
-- 🌱 I’m currently learning PYTHON
+- 👀 I’m interested in C, PYTHON, JAVA, HTML, CSS, JAVASCRIPT, PHP, DATA STRUCTURES
+- 🌱 I’ve completed my learning in PYTHON, JAVA, DATA STRUCTURES
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
