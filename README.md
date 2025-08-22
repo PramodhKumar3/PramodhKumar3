@@ -53,16 +53,16 @@ A **travel management platform** designed during Infosys training. Built with Ja
 <p align="left">
   <a href="https://www.linkedin.com/in/tamminaina-pramodh-kumar-6433a4242" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a><br>
   <a href="mailto:yourmail@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-  </a>
+  </a><br>
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
-  </a>
+  </a><br>
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
-  </a>
+  </a><br>
 </p>  
 
 ---
