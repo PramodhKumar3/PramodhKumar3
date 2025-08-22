@@ -23,7 +23,7 @@ I love experimenting with new technologies and continuously improving myself as 
 - **Programming Languages**: C, Java  
 - **Frameworks & Libraries**: Spring Boot, Spring MVC, REST APIs, Microservices  
 - **Frontend**: HTML, CSS, Angular, Thymeleaf  
-- **Web Services**: REST APIs (Postman, Swagger), SOAP (SOAP UI)  
+- **Web Services**: REST APIs (Postman, Swagger)  
 - **Tools & Platforms**: Docker, Kubernetes, MySQL, Git, GitHub  
 - **Database Technologies**: MySQL, JDBC, Hibernate, Spring Data JPA  
 - **Core Concepts**: OOP (Object-Oriented Programming – Basics)  
