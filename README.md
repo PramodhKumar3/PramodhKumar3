@@ -64,20 +64,24 @@ Features include:
 ## 📫 Connect With Me  
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tamminaina-pramodh-kumar-6433a4242" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="28" height="28"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="35" height="35"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+  <!-- Gmail -->
   <a href="mailto:tamminainapramodhkumar6@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" width="28" height="28"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/its__me_pramodh03/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="28" height="28"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="35" height="35"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+  <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="28" height="28"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="35" height="35"/>
   </a>
 </p>
 
