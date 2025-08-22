@@ -9,13 +9,12 @@
 PramodhKumar3/PramodhKumar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 # 👋 Hi, I'm Pramodh Kumar  
 
 💻 Software Engineer @ Capgemini | Java Backend Developer | Spring Boot | Microservices  
 
-I'm passionate about coding, upgrading my skills, and building scalable applications.  
-I enjoy working on backend development, microservices, and full-stack projects.  
+I’m passionate about coding, upgrading my skills, and building applications that solve real-world problems.  
+I love experimenting with new technologies and continuously improving myself as a developer.  
 
 ---
 
@@ -33,18 +32,30 @@ I enjoy working on backend development, microservices, and full-stack projects.
 
 ## 🚀 Projects  
 
-### 🏦 [Gold Wallet Web Application](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application)  
-A **Spring Boot-based web application** for managing digital gold transactions with secure authentication, role-based access, and Docker/Kubernetes deployment.  
+🏦 [Gold Wallet Web Application](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application) –  
+A **Spring Boot-based web application** designed for **digital gold transactions**.  
+Features include:  
+- Authentication & Role-Based Access Control (User, Vendor, Admin)  
+- Secure transactions with Spring Security & JWT  
+- Real-time gold pricing integration  
+- Docker & Kubernetes support for deployment  
 
-### 🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust)  
-A **travel management platform** designed during Infosys training. Built with Java, Spring Boot, Hibernate, and MySQL for smooth trip planning and booking experience.  
+🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust) –  
+A **travel management platform** built during Infosys training.  
+Features include:  
+- User-friendly trip planning & booking system  
+- Spring Boot + Hibernate + MySQL backend  
+- REST APIs for managing destinations, users, and bookings  
+- Designed with scalability and modularity in mind  
 
 ---
 
 ## 🌱 Currently Exploring  
+
 - Advanced System Design & Design Patterns  
-- Scaling microservices with Docker & Kubernetes  
-- Improving full-stack development with Angular + Spring Boot  
+- Scaling microservices using Docker & Kubernetes  
+- Enhancing full-stack skills with Angular + Spring Boot  
+- Data Structures & Algorithms (DSA) for problem solving  
 
 ---
 
@@ -53,18 +64,18 @@ A **travel management platform** designed during Infosys training. Built with Ja
 <p align="left">
   <a href="https://www.linkedin.com/in/tamminaina-pramodh-kumar-6433a4242" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a><br>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tamminainapramodhkumar6@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-  </a><br>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/its__me_pramodh03/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
-  </a><br>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
-  </a><br>
+  </a>
 </p>  
 
 ---
 
-✨ *"More interested in coding, upgrading myself, and excited to work on challenging projects."*  
+✨ *"I enjoy coding, learning, and pushing myself to build better solutions every day."*  
