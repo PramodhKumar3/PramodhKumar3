@@ -32,7 +32,8 @@ I love experimenting with new technologies and continuously improving myself as 
 
 ## 🚀 Projects  
 
-🏦 [Gold Wallet Web Application](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application)
+### 🏦 [Gold Wallet Web Application](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application) 
+
 A **Spring Boot-based web application** designed for **digital gold transactions**.  
 Features include:  
 - Authentication & Role-Based Access Control (User, Vendor, Admin)  
@@ -40,7 +41,8 @@ Features include:
 - Real-time gold pricing integration  
 - Docker & Kubernetes support for deployment  
 
-🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust)
+### 🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust) 
+
 A **travel management platform** built during Infosys training.  
 Features include:  
 - User-friendly trip planning & booking system  
