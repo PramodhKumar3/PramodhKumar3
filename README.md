@@ -38,8 +38,8 @@ Features include:
 - 🔐 Authentication & Role-Based Access Control (User, Vendor, Admin) with Spring Security + JWT
 - 💳 Buy/Sell transactions, wallet balance, and transaction history
 - 📊 Real-time gold price integration for accurate market valuation
-- 🏗️ Monolith: Spring Boot 3, Thymeleaf, MySQL, JPA with optimized schema (25% faster queries)
-- ☸️ Microservices: Eureka, API Gateway, Config Server, Feign Clients, and Kafka for event-driven workflows
+- 🏗️ **Monolith:** Spring Boot 3, Thymeleaf, MySQL, JPA with optimized schema (25% faster queries)
+- ☸️ **Microservices:** Eureka, API Gateway, Config Server, Feign Clients, and Kafka for event-driven workflows
 - 🛡️ Global exception handling & Spring Validation (35% fewer runtime errors)
 - 📦 Docker + Kubernetes deployment with 5 replicas ensuring high availability
 - 📘 Swagger integration for developer-friendly API documentation
