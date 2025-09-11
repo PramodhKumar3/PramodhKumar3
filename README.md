@@ -32,23 +32,27 @@ I love experimenting with new technologies and continuously improving myself as 
 
 ## 🚀 Projects  
 
-### 🏦 [Gold Wallet Web Application](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application) 
+### 🏦 [Digital Gold Wallet](https://github.com/PramodhKumar3/Digital-Gold-Wallet)
+A **Spring Boot-based Digital Gold Wallet** developed in both **Monolithic and Microservices architectures** for secure **gold transactions**.
+Features include:
+- 🔐 Authentication & Role-Based Access Control (User, Vendor, Admin) with Spring Security + JWT
+- 💳 Buy/Sell transactions, wallet balance, and transaction history
+- 📊 Real-time gold price integration for accurate market valuation
+- 🏗️ Monolith: Spring Boot 3, Thymeleaf, MySQL, JPA with optimized schema (25% faster queries)
+- ☸️ Microservices: Eureka, API Gateway, Config Server, Feign Clients, and Kafka for event-driven workflows
+- 🛡️ Global exception handling & Spring Validation (35% fewer runtime errors)
+- 📦 Docker + Kubernetes deployment with 5 replicas ensuring high availability
+- 📘 Swagger integration for developer-friendly API documentation
+- Tech Stack: Java 17, Spring Boot 3, Spring Security, JWT, Thymeleaf, MySQL, JPA, Spring Validation, Global Exception Handling, Apache Kafka, Docker, Kubernetes, Eureka, API Gateway, Config Server, Feign Clients, Swagger
 
-A **Spring Boot-based web application** designed for **digital gold transactions**.  
-Features include:  
-- Authentication & Role-Based Access Control (User, Vendor, Admin)  
-- Secure transactions with Spring Security & JWT  
-- Real-time gold pricing integration  
-- Docker & Kubernetes support for deployment  
-
-### 🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust) 
-
-A **travel management platform** built during Infosys training.  
-Features include:  
-- User-friendly trip planning & booking system  
-- Spring Boot + Hibernate + MySQL backend  
-- REST APIs for managing destinations, users, and bookings  
-- Designed with scalability and modularity in mind  
+### 🌍 [WanderLust](https://github.com/PramodhKumar3/WanderLust)
+A **travel management platform** designed for simplified trip planning and booking.
+Features include:
+- ✈️ User-friendly trip planning & booking system
+- 🗂️ REST APIs for managing destinations, users, and bookings
+- 🛠️ Backend built with Spring Boot + Hibernate + MySQL
+- 📈 Designed with scalability and modularity in mind
+- Tech Stack: Java, Spring Boot, Hibernate, MySQL, REST APIs, Swagger
 
 ---
 
