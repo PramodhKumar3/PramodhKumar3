@@ -35,7 +35,7 @@ I love experimenting with new technologies and continuously improving myself as 
 ### 🏦 [Digital Gold Wallet](https://github.com/PramodhKumar3/Digital-Gold-Wallet)
 A **Spring Boot-based Digital Gold Wallet** developed in both **Monolithic and Microservices architectures** for secure **gold transactions**.
 Features include:
-- 🔐 Authentication & Role-Based Access Control (User, Vendor, Admin) with Spring Security + JWT
+- 🔐 Authentication & Role-Based Access Control (**User, Vendor, Admin**) with Spring Security + JWT
 - 💳 Buy/Sell transactions, wallet balance, and transaction history
 - 📊 Real-time gold price integration for accurate market valuation
 - 🏗️ **Monolith:** Spring Boot 3, Thymeleaf, MySQL, JPA with optimized schema (25% faster queries)
