@@ -32,7 +32,10 @@ I love experimenting with new technologies and continuously improving myself as 
 
 ## 🚀 Projects  
 
-### 🏦 [Digital Gold Wallet](https://github.com/PramodhKumar3/Digital-Gold-Wallet)
+### 🏦 [Digital Gold Wallet]
+<!--
+## [Microservices](https://github.com/PramodhKumar3/Digital-Gold-Wallet)  [Monolith](https://github.com/PramodhKumar3/Gold-Wallet-Web-Application)
+-->
 A **Spring Boot-based Digital Gold Wallet** developed in both **Monolithic and Microservices architectures** for secure **gold transactions**.
 Features include:
 - 🔐 Authentication & Role-Based Access Control (**User, Vendor, Admin**) with Spring Security + JWT
