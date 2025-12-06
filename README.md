@@ -86,11 +86,11 @@ Features include:
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="28" height="28"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Portfolio 
-  <a href="https://yourportfolio.com" target="_blank">
+  <!-- Portfolio -->
+  <a href="https://pramodh-kumar-92.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="28" height="28"/>
   </a>
-  -->
+  
 </p>
 
 ---
