@@ -1,6 +1,4 @@
 <!---
-
-
 - 👋 Hi, I’m @PramodhKumar3
 - 👀 I’m interested in C, PYTHON, JAVA, HTML, CSS, JAVASCRIPT, PHP, DATA STRUCTURES
 - 🌱 I’ve completed my learning in PYTHON, JAVA, DATA STRUCTURES
